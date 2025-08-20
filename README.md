@@ -3,7 +3,7 @@
   <a href="https://portfolio-hazel-psi-0xm0t19w9r.vercel.app/" target="_blank">sid.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.jpg" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
